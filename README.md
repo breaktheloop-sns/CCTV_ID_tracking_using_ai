@@ -18,7 +18,7 @@ This is a real-time **CCTV surveillance system** that detects, tracks, and recog
 
 ### **1. Clone the Repository**
 ```sh
-https://github.com/rochitl72/CCTV_ID_tracking_using_ai.git
+https://github.com/breaktheloop-sns/CCTV_ID_tracking_using_ai.git
 cd CCTV_ID_tracking_using_ai
 ```
 
